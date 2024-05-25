@@ -1,2 +1,2 @@
-# skills-practice-set
-Practicing GitHub skills course
+### Skills-practice-set
+##### Practicing GitHub skills course
